@@ -8,7 +8,7 @@
 #Write your code below this line 👇
 welcome_message = "Welcome to the tip calculator"
 print(welcome_message)
-total_bill = input("What was the total bill?")
+total_bill = input("What was the total bill? $")
 total_bill_as_int = int(total_bill)
 tip_percentage = input(
     f"What percentage tip would you like to give? 10, 12, or 15?")
